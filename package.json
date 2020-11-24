@@ -1,0 +1,22 @@
+{
+  "name": "npm-t170207",
+  "version": "1.0.0",
+  "description": "git init  \r git remote add origin git@github.com:DevOps-SKF/t170207-npm.git  \r git add README.md  \r git commit -m \"initial commit\"  \r git branch -M master  \r git push -u origin master",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DevOps-SKF/t170207-npm.git"
+  },
+  "author": "Anton",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DevOps-SKF/t170207-npm/issues"
+  },
+  "homepage": "https://github.com/DevOps-SKF/t170207-npm#readme",
+  "dependencies": {
+    "jquery": "^3.5.1"
+  }
+}
